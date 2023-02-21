@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeFirstApplication</string>
+    <string name="show_more">d a new Text to the Column inside Greeting that is displayed when the item is expanded. Remove the extraPadding and instead apply the animateContentSize modifier to the Row. This is going to automate the process of creating the an</string>
+    <string name="show_less">show less</string>
+</resources>
